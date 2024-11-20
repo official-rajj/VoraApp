@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949293406171",
+    "project_id": "fir-f5a3f",
+    "storage_bucket": "fir-f5a3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949293406171:android:fd84be941f2b926626f9fe",
+        "android_client_info": {
+          "package_name": "com.example.voraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHnLp1Nj0WAZhwp8iPCr2a0D2ZLlAVbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
